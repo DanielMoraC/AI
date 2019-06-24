@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Wall
   - Floor
+  - Enemy
+  - TeamB
+  - Knight
+  - TeamA
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Wall
   - 
   - 
   - 
